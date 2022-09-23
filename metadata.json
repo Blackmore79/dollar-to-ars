@@ -1,5 +1,5 @@
 {
-  "uuid": "dollar-to-ars",
+  "uuid": "dollar-to-ars@david",
   "name": "Dollar",
   "description": "Convert Dollar USD to Pesos Argentinos using API AWESOMEAPI https://docs.awesomeapi.com.br.",
   "version": 1.5,
